@@ -6,24 +6,22 @@ Open the terminal and type following commands.
 
 * `apt install git -y`
 
-* `apt install python -y`
+* `apt install python3 -y`
 
-* `pip install lolcat`
+* `pkg install marshal`
 
-* `git clone https://github.com/EthicalUniverse/Termux-Banner`
+* `git clone https://github.com/xnln7/BOMB-X.git`
 
-* `cd Termux-Banner`
+* `cd BOMB-X`
 
-* `chmod +x *`
-
-* `sh install` if not work than use `./install`
+* `python3 bomb.py`
 
 
 ------------------------------------------------------------------------
 
 ## Tutorial :
 <p>
-  <a href="https://youtube.com/@Ethical_Universe">Tutorial Video</a>
+  <a href="https://youtube.com/@XNLN7">Tutorial Video</a>
   </p>
 
 
