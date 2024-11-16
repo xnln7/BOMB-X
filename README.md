@@ -14,6 +14,12 @@ Open the terminal and type following commands.
 
 * `cd BOMB-X`
 
+* `chmod +x *`
+
+  
+* `./install`
+
+  
 * `python3 bomb.py`
 
 
