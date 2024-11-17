@@ -1,5 +1,0 @@
-pkg update
-pkg upgrade
-apt update
-apt install python
-pip install requests
