@@ -17,10 +17,8 @@ Open the terminal and type following commands.
 * `chmod +x *`
 
   
-* `./install`
+* `./run` if not running `python main.py`
 
-  
-* `python3 bomb.py`
 
 
 ------------------------------------------------------------------------
