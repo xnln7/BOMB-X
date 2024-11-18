@@ -8,8 +8,6 @@ Open the terminal and type following commands.
 
 * `apt install python3 -y`
 
-* `pkg install marshal`
-
 * `git clone https://github.com/xnln7/BOMB-X.git`
 
 * `cd BOMB-X`
