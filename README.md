@@ -6,7 +6,7 @@ Open the terminal and type following commands.
 
 * `apt install git -y`
 
-* `apt install python3 -y`
+* `apt install python -y`
 
 * `git clone https://github.com/xnln7/BOMB-X.git`
 
