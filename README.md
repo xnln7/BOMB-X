@@ -8,6 +8,8 @@ Open the terminal and type following commands.
 
 * `apt install python -y`
 
+* `pkg install python-pip`
+
 * `git clone https://github.com/xnln7/BOMB-X.git`
 
 * `cd BOMB-X`
